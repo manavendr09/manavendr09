@@ -1,14 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://github.com/manavendr09.png" width="120" style="border-radius:50%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1200&color=FF2F63&center=true&vCenter=true&width=600&lines=%3E+Hey+I’m+Manavendra.;%3E+Full+Stack+Developer+in+Progress...;%3E+Competitive+Programmer.;%3E+Always+Leveling+Up+🚀" />
-</h1>
-
----
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manavendr09&label=Visitors&color=ff2f63&style=for-the-badge" />
