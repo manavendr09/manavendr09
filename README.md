@@ -35,11 +35,11 @@
 
 ---
 
-## 🧪 Anime Mood Banner
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://i.gifer.com/origin/5f/5fec06cdd0fd93d3536bc3a1cd0f7816_w200.gif" width="250" />
-</p>
+</p> -->
 
 ---
 
