@@ -14,7 +14,7 @@
 🎯 Goal 2025 → **Build impactful projects & improve in CP**
 🔥 Believes in **Consistency > Motivation**
 
-📩 Contact → **manavendr09@gmail.com**
+📩 Contact → **manavendrayadav2617@gmail.com**
 
 ---
 
@@ -32,14 +32,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=manavendr09&show_icons=true&theme=tokyonight" width="48%" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavendr09&theme=tokyonight" width="48%" />
 </p>
-
----
-
-
-
-<!-- <p align="center">
-  <img src="https://i.gifer.com/origin/5f/5fec06cdd0fd93d3536bc3a1cd0f7816_w200.gif" width="250" />
-</p> -->
 
 ---
 
