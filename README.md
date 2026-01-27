@@ -1,3 +1,20 @@
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Orbitron
+    &weight=600
+    &size=22
+    &duration=3000
+    &pause=1000
+    &color=09F7F7
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=👋+Hello,+I'm+MANAVENDRA+Yadav;Java+|+Full-Stack+|+CP+Enthusiast;Next+commit+loading..."
+  />
+</p>
+
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manavendr09&label=Visitors&color=ff2f63&style=for-the-badge" />
