@@ -1,17 +1,6 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Orbitron
-    &weight=600
-    &size=22
-    &duration=3000
-    &pause=1000
-    &color=09F7F7
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=👋+Hello,+I'm+MANAVENDRA+Yadav;Java+|+Full-Stack+|+CP+Enthusiast;Next+commit+loading..."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=09F7F7&center=true&vCenter=true&width=500&lines=%3E++Hello,+I%27m+MANAVENDRA+Yadav;Java+|+Full-Stack+|+CP+Enthusiast;Next+commit+loading..."
+ />
 </p>
 
 
@@ -21,6 +10,7 @@
 </p>
 
 ---
+
 
 ## ⚡ About Me
 
