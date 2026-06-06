@@ -19,7 +19,7 @@ I'm a **Full-Stack Developer** and **Computer Science student** passionate about
 
 - 🔭 Currently deep-diving into **Java DSA**, **Spring Boot**, and **Full-Stack Development**
 - 🤖 Exploring **Machine Learning** and its applications in healthcare and sustainability
-- 🎯 2025 Goal — Ship impactful open-source projects and sharpen competitive programming skills
+- 🎯 2026 Goal — Ship impactful open-source projects and sharpen competitive programming skills
 - 💡 I believe in **shipping fast, learning faster**
 - 📩 Reach me at **manavendrayadav2617@gmail.com**
 
@@ -50,7 +50,7 @@ I'm a **Full-Stack Developer** and **Computer Science student** passionate about
 
 **Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manavendr09)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manavendr09/Heart-Disease-Predictor)
 
 ---
 
