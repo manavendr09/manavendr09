@@ -89,7 +89,7 @@ I'm a **Full-Stack Developer** and **Computer Science student** passionate about
 
 ### CardiacIntel – Heart Disease Prediction using Machine Learning
 
-> A machine learning application that predicts heart disease risk using multiple models, providing actionable health insights.
+> A machine learning application that predicts heart disease risk using multiple classification models, helping users assess potential cardiovascular health risks through data-driven insights.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -97,22 +97,32 @@ I'm a **Full-Stack Developer** and **Computer Science student** passionate about
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavendr09/Heart-Disease-Predictor)
+[![View Repository](https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavendr09/Heart-Disease-Predictor) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=streamlit&logoColor=white)](https://manavendr09-heart-disease-detection--app-bizlne.streamlit.app/)
 
 ---
+### RETINA AI – Student Dropout Risk Prediction System
 
+> An AI-powered student dropout prediction platform that helps educational institutions identify at-risk students early using academic, attendance, and behavioral data, enabling timely interventions and improved student retention.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/RETINA-AI) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=render&logoColor=white)](https://student-dropout-risk-prediction-zxmi.onrender.com/)
+
+---
 ### IQBot – Intelligent NLP-Powered Chatbot
 
-> An intelligent chatbot built with Python, capable of answering queries and engaging in meaningful conversation using NLP techniques.
+> An intelligent NLP-powered chatbot that understands user queries and generates meaningful responses using Natural Language Processing and Machine Learning techniques, enabling interactive and human-like conversations.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-1F6FEB?style=flat-square&logo=probot&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6E7781?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavendr09/IQBot)
-
----
-
+[![View Repository](https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavendr09/IQBot) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=streamlit&logoColor=white)](https://manavendr09-iqbot-bot-5s2h1p.streamlit.app/)
 ### CropIQ – Smart AI-Driven Crop Recommendation System
 
 > A smart crop recommendation web app that guides farmers in selecting the best crops based on soil and environmental parameters.
