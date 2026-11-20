@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- SOCIAL & CONTACT BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavendr09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavendr/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavendr09)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavendrayadav2617@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=manavendr09&label=Profile%20Views&color=1F6FEB&style=for-the-badge)](https://github.com/manavendr09)
